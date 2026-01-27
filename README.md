@@ -1,80 +1,89 @@
 # Hi, I'm Vaastav 👋
 
 🎓 B.Tech CSE (Cybersecurity) Student  
-🛡️ Interested in Cybersecurity, Backend Development & Applied AI  
-🧠 Learning by building projects with Python, SQL, and FastAPI  
+🛡️ Cybersecurity | Defensive Security | Security Engineering (Learning)  
+🐍 Python for Security Projects  
 
 ---
 
-## 🚀 About Me
+## 🔐 About Me
 
 - Computer Science undergraduate specializing in **Cybersecurity**
-- Strong interest in **bot detection, secure backend systems, and data-driven applications**
-- Built multiple **learning-focused projects** using documentation and AI tools
-- Currently a **Trainee**, gaining exposure to AI systems and backend workflows
-- Focused on **understanding system flow, concepts, and practical implementation**
+- Interested in **web security, bot detection, and defensive system design**
+- Build **learning-focused security projects** to understand real-world attack and defense concepts
+- Use documentation and AI tools as learning aids while focusing on **concept clarity**
+- Currently a **Trainee**, gaining exposure to industry workflows and AI-based systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**Languages & Backend**
-- Python, SQL
-- FastAPI, REST APIs
+**Cybersecurity**
+- Web Security Fundamentals
+- Bot Detection & WAF Concepts
+- Vulnerability Assessment & Penetration Testing (Basics)
+- Networking Fundamentals
+
+**Programming (for Security)**
+- Python
+- REST API basics (for understanding attack surfaces)
 
 **Data & ML (Foundational)**
-- Pandas, NumPy
-- scikit-learn (basic usage)
+- Basic data analysis concepts
+- Introductory anomaly detection ideas
 
 **Databases**
-- PostgreSQL
-
-**Frontend**
-- HTML, CSS, JavaScript
+- PostgreSQL (basic usage)
 
 **Tools**
 - Git, GitHub
 
 ---
 
-## 📌 Projects
+## 📌 Security Projects
 
-### 🔐 Bot Detection Web Application Firewall (WAF)
-Educational project to understand bot detection concepts using:
-- Rule-based request checks
-- Basic anomaly detection ideas
-- FastAPI backend with traffic visualization
+### 🔐 Bot Detection Web Application Firewall (WAF) — *Educational*
+- Built a learning-focused WAF using Python to understand **bot behavior and detection logic**
+- Explored rule-based detection and basic anomaly detection concepts
+- Analyzed request behavior such as rate, headers, and user-agent patterns
 
-👉 Focus: learning security concepts, traffic behavior, and backend design
+🎯 Focus: defensive security concepts, not production systems
 
 ---
 
 ### 🛒 Zepto SQL Data Analysis
-- Analyzed e-commerce inventory data using PostgreSQL
-- Practiced data cleaning and business-focused SQL queries
+- Practiced structured data handling and analysis using SQL
+- Learned how datasets are queried and validated
 
 ---
 
 ### 💸 Expense Tracker (Python)
-- Python CLI app for tracking and categorizing expenses
-- Used CSV storage and OOP fundamentals
+- Beginner Python project focused on file handling and structured data storage
 
 ---
 
-## 📖 Currently Learning
+## 🌱 Currently Learning
 
-- Backend system design basics
-- Applied machine learning concepts
-- Cybersecurity fundamentals (WAFs, bot behavior, web security)
-- Writing cleaner, more readable code
+- Web application security (WAFs, bot behavior)
+- Secure system design basics
+- Networking and protocol fundamentals
+- Security-first thinking in software systems
+
+---
+
+## 🔗 Pinned Repositories
+
+- 🔐 bot-detection-waf  
+- 🛒 zepto-sql-analysis  
+- 💸 expense-tracker-python  
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: <add-your-link>
+- LinkedIn: https://www.linkedin.com/in/vaastav022626/
 - Email: pathaniavastav@gmail.com
 
 ---
 
-⭐ *This profile represents my learning journey. Open to feedback, collaboration, and growth.*
+ ⭐ *This profile reflects my learning journey and growth as a student and developer.*
